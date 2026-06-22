@@ -17,16 +17,16 @@
   {
     "title":"From the Ink Up",
     "description":"From the Ink Up is a ~Division 7-11 skill capped tournament taking place biweekly on Friday evenings.",
-    "imagePath":"images/FromTheInkUp_Logo.png"
+    "imagePath":"images/FromTheInkUp_Logo.webp"
   },
   {
     "title":"Splat World Series",
     "description":"Splatoon 3's international supermajor. Presented in collaboration with AREA CUP!",
-    "imagePath":"images/SplatWorldSeries_Logo.png"
+    "imagePath":"images/SplatWorldSeries_Logo.webp"
   },
   {
     "title":"Global Gauntlet",
     "description":"Splatoon 3's international exchange event. Presented in collaboration with AREA CUP!",
-    "imagePath":"images/GlobalGauntlet_Logo.png"
+    "imagePath":"images/GlobalGauntlet_Logo.webp"
   }
 ]
